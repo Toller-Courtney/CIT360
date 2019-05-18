@@ -8,7 +8,8 @@ import org.json.simple.JSONObject;
 /* Demonstration of Creating a JSON file
  * In order to begin using JSON with Java, we have
  * to first download t he JSON library. I used the
- *json-simple-1.1.jar.*/
+ *json-simple-1.1.jar.
+ */
 public class CreateJsonFile {
 	
 	public static void main(String[] args) {
